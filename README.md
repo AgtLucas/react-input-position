@@ -1,3 +1,5 @@
+# FORK of react-input-position
+
 # react-input-position
 
 react-input-position is a component that decorates it's children with mouse/touch position tracking, a status toggle fired by click/gesture events, and more. Assisting in the creation of UI features that require detailed information about user touch/mouse input.
